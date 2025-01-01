@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Optimize loop
 Rewrite function Y
 Clean up codebase
+Fix bug in feature X
