@@ -22,3 +22,4 @@ Tweak margin and padding
 Fix typo in README
 Improve logging
 Add documentation
+Fix typo in README
