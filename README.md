@@ -21,3 +21,4 @@ Fix bug in feature X
 Tweak margin and padding
 Fix typo in README
 Improve logging
+Add documentation
