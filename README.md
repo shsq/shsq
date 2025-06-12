@@ -19,3 +19,4 @@ Rewrite function Y
 Clean up codebase
 Fix bug in feature X
 Tweak margin and padding
+Fix typo in README
