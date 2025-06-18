@@ -23,3 +23,4 @@ Fix typo in README
 Improve logging
 Add documentation
 Fix typo in README
+Clean up codebase
